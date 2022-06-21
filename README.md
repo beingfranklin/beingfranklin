@@ -1,8 +1,6 @@
-### 👋
+## Hello 👋 
 
-Hello! I'm Franklin, a software engineer based in Bristol, UK.
-
-I currently work as a Software Engineer in [Huboo 📦 🚀](https://www.huboo.com/) in Bristol, UK. Before that, I worked in [Paytriot Payments](https://www.paytriot.co.uk/) and [Esper.io](https://www.esper.io/). I completed my masters degree in Computer Science from the Queen Mary University of London.
+I'm **Franklin**, and I currently work as a Software Engineer in [Huboo 📦 🚀](https://www.huboo.com/) in Bristol, UK. Before that, I worked in [Paytriot Payments](https://www.paytriot.co.uk/) and [Esper.io](https://www.esper.io/). I completed my masters degree in Computer Science from the Queen Mary University of London. I am an [Open Source](https://github.com/beingfranklin?tab=repositories) enthusiast and I am a [Mozilla Kerala](https://github.com/MozillaKerala) volunteer.
 
 Here are a few technologies I've been working with recently:
 
