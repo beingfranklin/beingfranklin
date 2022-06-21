@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Open Source Enthusiast. Software Engineer at @huboo-technologies 📦 🚀 . @QMUL Alumni. Volunteer @MozillaKerala. 
+
 <!--
 **beingfranklin/beingfranklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
