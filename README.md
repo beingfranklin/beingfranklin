@@ -8,9 +8,9 @@ Here are a few technologies I've been working with recently:
    - JavaScript(ES6+)
    - Node.js
    - Laravel
-   - React
-   - Next.Js
-   - Vue
+   - React.js
+   - Next.js
+   - Vue.js
 
 <!--
 **beingfranklin/beingfranklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
