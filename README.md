@@ -9,6 +9,7 @@ Here are a few technologies I've been working with recently:
    - Node.js
    - Laravel
    - React
+   - Next.Js
    - Vue
 
 <!--
