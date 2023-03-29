@@ -5,7 +5,6 @@ I'm **Franklin**, and I currently work as a Software Engineer @ [Huboo 📦 🚀
 Here are a few technologies I've been working with recently:
 
    - Typescript
-   - JavaScript(ES6+)
    - Node.js
    - Laravel
    - React.js
