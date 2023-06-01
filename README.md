@@ -6,9 +6,9 @@ Here are a few technologies I've been working with recently:
 
    - Typescript
    - Node.js
-   - Laravel
    - React.js
    - Next.js
+   - Laravel
    - Vue.js
 
 <!--
