@@ -2,7 +2,7 @@
 
 Hey there, I'm **Franklin**!
 
-I'm building cool stuff at [Huboo 📦 🚀](https://www.huboo.com/) in Bristol, UK. I did my CS Master's from [Queen Mary University of London](https://www.qmul.ac.uk/) When I'm not coding for work, I'm helping out with ~~Mozilla Kerala~~ and diving into open source projects.
+I'm building cool stuff in London, UK. I did my CS Master's from [Queen Mary University of London](https://www.qmul.ac.uk/) When I'm not coding for work, I'm helping out with ~~Mozilla Kerala~~ and diving into open source projects.
 
 🛠 Here are a few technologies I've been working with recently:
 
