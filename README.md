@@ -10,8 +10,8 @@ I'm working for [Sainsbury's](https://github.com/sainsburys-tech) in London. I d
    - Node.js
    - React.js
    - Next.js
-   - Laravel
-   - Vue.js
+   - GraphQL
+   - AWS CDK
 
 Always up for a chat about all things tech. Reach out! 💡
 <!--
