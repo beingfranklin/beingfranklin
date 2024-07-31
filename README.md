@@ -2,18 +2,11 @@
 
 Hey there, I'm **Franklin**!
 
-I'm working for [Sainsbury's](https://github.com/sainsburys-tech) in London. I did my CS Master's from [Queen Mary University of London](https://www.qmul.ac.uk/) When I'm not coding for work, I'm ~~helping out with Mozilla Kerala and~~ diving into open source projects.
+I am a software engineer with a Master’s in Computer Science and a background in Data Engineering, focusing on product and design. My current tech stack includes Node.js, React.js, and a range of AWS services, but I am always eager to learn and work with any technology stack.
 
-🛠 Here are a few technologies I've been working with recently:
+I love building web apps, integrations, platforms, and APIs. I am passionate about creating data-driven projects with great user experiences.
 
-   - Typescript
-   - Node.js
-   - React.js
-   - Next.js
-   - GraphQL
-   - AWS CDK
-
-Always up for a chat about all things tech. Reach out! 💡
+Feel free to reach out or just say hi! 👋
 <!--
 I'm **Franklin**, and I currently work as a Software Engineer @ [Huboo 📦 🚀](https://www.huboo.com/) in Bristol, UK. I completed my master's degree in Computer Science from the [Queen Mary University of London](https://www.qmul.ac.uk/). I am an [Open Source](https://github.com/beingfranklin?tab=repositories) enthusiast and a [Mozilla Kerala](https://github.com/MozillaKerala) volunteer.
 
