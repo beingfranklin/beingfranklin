@@ -2,7 +2,7 @@
 
 Hey there, I'm **Franklin**!
 
-I am a software engineer with a Master’s in Computer Science and a background in Data Engineering, focusing on product and design. My current tech stack includes Node.js, React.js, and a range of AWS services. I love building web apps, integrations, platforms, and APIs. I am passionate about creating data-driven projects with great user experiences.
+I am a software engineer with a Master’s in Computer Science and a background in Data Engineering, focusing on product and design. I currently work in AdTech space and my current tech stack includes Node.js, React.js, and a range of AWS services. I love building web apps, integrations, platforms, and APIs. I am passionate about creating data-driven projects with great user experiences.
 
 Feel free to reach out or just say hi! 👋
 <!--
