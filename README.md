@@ -1,12 +1,12 @@
-## 👋 
+## 👋
 
-Hey there, I'm **Franklin**!
+Hey, I'm Franklin!
 
-Building data-driven apps and better user experiences in AdTech.
+**Software Engineer** building high performance data-driven apps with great user experiences.
 
 React • Node • AWS • Design
 
-Feel free to reach out or just say hi! 👋
+Let’s connect or just say hi! 
 <!--
 I'm **Franklin**, and I currently work as a Software Engineer @ [Huboo 📦 🚀](https://www.huboo.com/) in Bristol, UK. I completed my master's degree in Computer Science from the [Queen Mary University of London](https://www.qmul.ac.uk/). I am an [Open Source](https://github.com/beingfranklin?tab=repositories) enthusiast and a [Mozilla Kerala](https://github.com/MozillaKerala) volunteer.
 
