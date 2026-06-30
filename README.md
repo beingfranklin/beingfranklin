@@ -4,7 +4,7 @@ Hey, I'm Franklin!
 
 **Software Engineer** building high performance data-driven apps with great user experiences.
 
-React • Node • AWS • Design
+Node • React • AWS • Design
 
 <!--
 
